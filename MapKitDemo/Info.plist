@@ -34,6 +34,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Need Access to location all the times.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Need access to location.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Need access to location when in use.</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
